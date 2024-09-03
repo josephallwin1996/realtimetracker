@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "dev": "node app.js",
+    "dev": "npm i && node app.js",
     "prod": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
